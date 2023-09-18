@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+body{
+    text-align: center;
+    margin: 0;
+}
+.teste{
+    width: 520px;
+    margin: 0 auto 28px;
+}
+.teste img{
+    margin-bottom: 72px;
+}
+.link a + a{
+    margin-left: 30px;
+}
+h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+    margin-bottom: 32px;
+}
+h1 span{
+    font-weight: bold;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    color: #7D7987;
+    font-size: 14px;
+    
+}
+span ,a {
+    color:#FF9900;
+}
+.bolinha{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
